@@ -1,0 +1,5 @@
+www:
+  type: nodejs
+  approot: www
+data:
+  type: redis
